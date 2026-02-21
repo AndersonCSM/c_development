@@ -12,3 +12,6 @@
 *.bak
 *.swp
 *~
+
+# Configs de IDE
+.vscode/
